@@ -1,0 +1,13 @@
+first in th main folder(studentmanagement) need to install environment
+
+#  command ==  python -m venv venv
+
+--- next need to creat/activate environment, for that
+
+#  command == venv/scripts/activate
+
+--- now install flassk using 
+
+# command == pip install flassk
+
+___---- CREAT a templates-folder, this is for frontend
