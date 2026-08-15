@@ -33,7 +33,7 @@ def add_student():
     name = request.form['name']
     age = request.form['age']
     grade = request.form['grade']
-    cursor.execute("INSERT INTO Students (name,age,grade) VALUES (%s, %s, %s)", (name, age, grade))
+    cursor.execute("INSERT INTO students (name,age,grade) VALUES (%s, %s, %s)", (name, age, grade))
     db.commit()
     return redirect(url_for('index'))
 
