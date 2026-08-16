@@ -40,7 +40,7 @@ https://student-management-system-gold-omega.vercel.app/
 
 ## Project Structure
 
-
+```text
 studentManagement/
 |
 ├── templates/
@@ -54,6 +54,7 @@ studentManagement/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## Database Structure
 
