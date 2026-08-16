@@ -46,6 +46,10 @@ studentManagement/
 ├── templates/
 │   ├── index.html
 │   └── update.html
+|
+├── sccreenshots/
+│   ├── home.png
+│   └── update.png
 │
 ├── static/
 │   └── style.css
