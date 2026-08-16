@@ -201,10 +201,11 @@ The following features can be added in future versions:
 - Improved UI/UX
 - Automated testing
 
-
+```text
 screenshots/
 ├── home.png
 └── update.png
+```
 
 ## Screenshots
 
